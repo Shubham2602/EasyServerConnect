@@ -230,7 +230,7 @@ public class SSH {
 	
 	public static void main(String args[]) {
 		SSH ssh = new SSH();
-		ssh.uploadToServer(); // uploading to Server
+		//ssh.uploadToServer(); // uploading to Server
 		ssh.downloadfromServer(); //downloading to Server
 	}
 }
